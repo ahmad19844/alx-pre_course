@@ -1,2 +1,1 @@
-My frist readme
-Hello software engineers
+I want to become software engineer in one year
